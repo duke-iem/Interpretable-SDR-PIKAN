@@ -1,0 +1,9 @@
+### Round 0 ###
+init => 0.0
+0.0 => fix_symbolic => 0.1
+0.1 => fix_symbolic => 0.2
+0.2 => fix_symbolic => 0.3
+0.3 => fix_symbolic => 0.4
+0.4 => fix_symbolic => 0.5
+0.5 => fix_symbolic => 0.6
+0.6 => fit => 0.7
