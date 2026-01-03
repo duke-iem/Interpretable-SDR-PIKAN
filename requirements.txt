@@ -1,0 +1,11 @@
+AIStructDynSolve
+pytorch
+matplotlib
+numpy
+scikit-optimize
+scipy
+pandas
+openpyxl
+kan
+
+python_requires='>=3.10'
