@@ -1,0 +1,1 @@
+The replication code along with all example codes featured for the paper： " Discovering Interpretable Structural Dynamic Response Using Physics-Informed Kolmogorov-Arnold Network " for consideration in Engineering Applications of Artificial Intelligence.
